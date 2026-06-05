@@ -1,0 +1,14 @@
+[
+    {
+        "Teacher Feedback": "While you've identified two key points about the Treaty of Versails, they lack depth and context. You need to explain why punishing Germany was important (e.g., preventing future aggression) and discuss other significant aspects like reparations, territorial adjustments, and the League of Nations' role. Additionally, consider providing more historical background to justify why ending WWI was crucial. Lastly, ensure accuracy; \"Versails\" should be spelled correctly throughout.",
+        "Student Feedback": "This answer is too general. The Treaty of Versailles was a complex and contentious document that had far-reaching consequences for Europe and the world. To improve, the student should provide a more detailed explanation of the treaty's provisions and their impact on Germany and the rest of the world.",
+        "Expert Feedback": "This is correct and identifies a key consequence. For a fuller explanation, include specific terms and its long-term effects on Europe.",
+        "Teacher Score": "0.25",
+        "Student Score": "0.7947433590888977",
+        "LM Loss": "15.618852615356445",
+        "Hidden Loss": "54.68152618408203",
+        "Score Loss": "0.29674533009529114",
+        "Logit Loss": "19.397214889526367",
+        "RKD Loss": "0.0014545924495905638"
+    }
+]
