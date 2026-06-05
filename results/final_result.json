@@ -1,0 +1,26 @@
+[
+    {
+        "teacher": "<__main__.ExpertFeedbackModel object at 0x75999d53cbd0>",
+        "student": "<__main__.AmateurFeedbackModel object at 0x75999b731b50>",
+        "final_avg_loss": 2.802555241873488,
+        "final_loss_vector": {
+            "lm_loss": 2.216745615005493,
+            "score_loss": 0.20952285826206207,
+            "hidden_loss": 7.585629653930664,
+            "logit_loss": 3.999766159057617,
+            "rkd_loss": 0.001111923111602664
+        }
+    },
+    {
+        "teacher": "<__main__.ExpertFeedbackModel object at 0x7403ac321590>",
+        "student": "<__main__.AmateurFeedbackModel object at 0x7403aa5088d0>",
+        "final_avg_loss": 3.5993330550281097,
+        "final_loss_vector": {
+            "lm_loss": 2.5400297164916994,
+            "score_loss": 0.055930192768573764,
+            "hidden_loss": 10.390032958984374,
+            "logit_loss": 5.010547510782877,
+            "rkd_loss": 0.00012489611302347233
+        }
+    }
+]
